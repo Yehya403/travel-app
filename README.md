@@ -13,7 +13,7 @@
 1. Clone the repository using Git:
 
 ```
-git clone https://github.com/Yehya651/Travel-App
+git clone https://github.com/Yehya403/Travel-App
 ```
 
 2. Open the project in Android Studio.
