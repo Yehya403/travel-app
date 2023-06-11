@@ -1,12 +1,11 @@
 # Travel App
 
-- The app incorporates various features, including a Splash screen, Localization for multi-language support, Sign-in and Register functionality, a Checkout page that utilizes Shared Preferences for data storage, a Dashboard app with Card View and Recycler View to display content, a Call Center feature, an Email Center for communication, and implementation of a Broadcast Receiver for receiving system-wide events. Additionally, the app includes Notifications that are scheduled using job scheduling .
+- The app incorporates various features, including a Splash screen, Localization for multi-language support, Sign-in and Register functionality, a Checkout page that utilizes Shared Preferences for data storage, a Dashboard app with Card View and Recycler View to display content, a toolbar and implementation of a Broadcast Receiver for receiving system-wide events. Additionally, the app includes Notifications that are scheduled using job scheduling .
 
 ## Technologies
 
 - Android Studio
 - Java
-- Google Maps API
 
 ## Installation
 
